@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="script.js"></script>
+  <meta charset="utf-8">
+  <title>/bin/zsh</title>
+  <link rel="icon" href="assets/hash.png" type="image/x-icon"/>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="script/typewriter.js"></script>  
 </head>
 <body>
-    <p id="typing"></p>
-    <div id = "social">
-        <ul>
-            <li><a href="https://twitter.com/sqdorte"><img src="twitter.png"></a></li>
-            <li><a href="https://github.com/sqdorte"><img src="github.png"></a></li>
-        </ul>
+    <div id="terminal">
+      <span class="prompt"><span class="lambda">λ</span> ~ </span> ls <br>
+      <ul>
+        <li class="folder"><a onclick="typeWriter('cd code/', 'https://www.github.com/sqdorte')">/code</a></li>
+        <li class="file"><a onclick="typeWriter('cat sqdorte.txt', about)">sqdorte.txt</a></li>
+      </ul>
+      <span class="prompt"><span class="lambda">λ</span> ~ </span><span id="typewriter"></span>
     </div>
 </body>
 </html>

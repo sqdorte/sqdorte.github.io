@@ -1,0 +1,80 @@
+@font-face {
+  font-family: mplus-1m;
+  src: url(../fonts/mplus1m.ttf);
+}
+
+html {
+  height: 100%
+}
+
+body {
+  background: url(../assets/sea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  outline: none;
+}
+
+#terminal {
+  /* position stuff */
+  position: absolute;
+  left:0; right:0;
+  top:0; bottom:0;
+  margin:auto;
+  
+  /* terninal aspects */
+  background-color: #0A161B;
+  box-shadow: 7px 7px 8px black;
+  padding: 25px;
+  opacity: 0.95;
+  
+  width: 38em;
+  height: 40em;
+
+  /* font */
+  color: #d6e7f3;
+  font-family: mplus-1m;
+  line-height: 2.0;
+}
+
+.prompt {
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-family: mplus-1m;
+}
+
+.lambda {
+  color: #1287BC
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 5px 0px 5px 0px;
+}
+
+li {
+  display: inline-block;
+  padding-right: 35px;
+}
+
+.folder, .folder a, .folder a:visited {
+  text-decoration: none;
+  color: #63AEDD;
+  font-weight: bolder;
+}
+
+.folder a:hover {
+  text-decoration: underline;
+}
+
+.file, .file a, .file a:visited {
+  text-decoration: none;
+  color: #d6e7f3;
+}
+
+.file a:hover {
+  text-decoration: underline;
+}
