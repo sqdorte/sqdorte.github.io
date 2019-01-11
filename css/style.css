@@ -60,6 +60,10 @@ li {
   padding-right: 35px;
 }
 
+.dir-item:hover {
+  cursor: pointer;
+}
+
 .folder, .folder a, .folder a:visited {
   text-decoration: none;
   color: #63AEDD;
