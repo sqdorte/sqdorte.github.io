@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sqdorte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sqdorte.github.io
+  * I am sqdorte (https://keybase.io/sqdorte) on keybase.
+  * I have a public key with fingerprint 0EE3 3A4D 8DF0 11E8 7E8B  5539 CDE5 3988 1ED8 D92A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202ed94423a9671c0d374d0d0da71cccc3e3a7c8c587eacdff2d712c4519da1ebe0a",
+      "fingerprint": "0ee33a4d8df011e87e8b5539cde539881ed8d92a",
+      "host": "keybase.io",
+      "key_id": "cde539881ed8d92a",
+      "kid": "0101b8dc18f2edc803f1817f6e206fdc75ff1019c36e77d0bfcfcd70bd446247aec80a",
+      "uid": "b83a98ca5d26b9b5ae5058430e732319",
+      "username": "sqdorte"
+    },
+    "service": {
+      "hostname": "sqdorte.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552533638,
+  "expire_in": 157680000,
+  "prev": "6142a72da81d1f867309341f70f71ecda6dd613df3944ab2fb3917e1d5d7c648",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJtUFRVGN51kXAR+RCQ1By5WBEi3O+PbVYkCZEB0mR1JsHl3nvOXS7Q
+7rJ7d2EjWHMUo5waMsaP1KHCEfkwYYaCRk2UBgN3GjWTrGaAqAlMGKOZcCDpXsof
+zfSemXPmnPd5nvM+57x9YQadUR/4mXtzzdB3SfrB3g88uoK6a7VViOAAPsRUhZTC
+hQWWAehWrKUyQEwIiuEoDgFHkjjBczSDiSggGBKg6uDVnRoEJHhGZEWKZSAvAknC
+AYPhIklhHOAxKECUR5IRSbbboMvpku2KJgshQfAkYIGEYhhUmaxAUQQnAqjOLItB
+NcXhGrHY4dYYanEC74YpskM9UzfWhfL+B/+4bhQTWCBirKSWL7IoIWEsxkg0xFFa
+AiJDSZIK4USChgwDUEESJREwqABIksZJhocqR5PzLMgJrOqeFXkK4LTACRQPKZRi
+SQKFDIETGKcB3dBl51+FKtpdDhwuBSLVyYh66JVFqL2rZuS/gBSbrBR7hH88OV0O
+xSE6ytR0saI43SaNrvicGr4CCtZ/layCbAfqW6oML3S5ZYcdMWEqUlRkTRqjKJwi
+CJpgkxFY6ZRd0CprCIqhWVQN7R7oVSVpjMR5Bgc8iwFMYmmGQDmCxCQGlRgMioCn
+AaAxAkiE+ve8gEsCwWEMxAAFGJEmWUTzVm53ICb1JoW3aa5km51XPC7V+JXegiCd
+3qgLXrxI6zGdcUnE484bWxn+aF16/rtfXXwrdfnOc6YorGdiZf/t8I/HGttSbvmf
+/fGvgZygN4ypE6PrR0/av7+wyKNsze4baHo7Czzjq9ydNJ8e9MmGiG/bfC2NwRlm
+W/bq/T/NhLwQaqmNqTWbjRGToKVX11X+2pGj7av6p3q6GuYy124/5K9Jr2oF2UV3
+YhvzrwRCuy4fu1hiWvHHnjRLzzbLR9N5YQnxaUNnMhLTr053tk2ljiR0ZuaXNH2Y
+M3DkqbQtxlWnm2rr3/mz2BzlbT2///CLq4X+b87t7px7eX4DnxU7V1RJR97jkcP+
+gbvtCdOfzr6/tMPadV6yG4zHDde/3PW740R0oj1yyaHhS/q02CfYoZovAuHexPLs
+lueDZ2/qH2ZsnJ8dz4uPauL3bUNidFPGJwsroCXNP77jRthiV964xfx6t+d6+ebc
+dQ9OfV14o76yWV+TOVK9pi5nUjeTPtjQVxRfrIQZl28v9S3rjogLv3SwBAUdS+8H
+Pt90Nr79TEhWbn1ITsXmvLKk41nNgc73pifugt/Wjt5JMx5F8juIjrhmdCta/fSj
+vafGrnWftI16ckfQ5waXRW90zJ9dcbmr8KHZv/eHXQ8mdZFlhgv7rzbs4eoMoQW3
+R361vBK1xXvzdFvrcLQ11VDm9H9G8/fH13ccuCcHouKGdyTuO3Ds4K2sTQWFJ3yO
+l3Qz9p0RMeaJX0b7hv4Gfve3QQ==
+=DRRU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sqdorte
+
+==================================================================
