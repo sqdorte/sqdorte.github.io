@@ -52,7 +52,7 @@ function setup() {
 
   s = 10;
   inc = 0.1;
-  zinc = random(0.000003, 0.0001);
+  zinc = random(0.000003, 0.00005);
 
   rows = round(width/s);
   cols = round(height/s);
